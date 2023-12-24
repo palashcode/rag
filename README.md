@@ -9,7 +9,8 @@
 ## Usage
 - open swagger ui at http://127.0.0.1:8000/docs
 - call ```/answer``` api which accepts two files
-- files container questions and reference document to search for answer
+- files 1 is containing questions and file 2 is a reference document to search for answer
+- file 2 can be a json or pdf file only
 - example questions.json and reference.json
     ```
     {
