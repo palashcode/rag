@@ -1,0 +1,8 @@
+langchain
+openai
+chromadb
+langchainhub
+fastapi
+python-multipart
+jq
+tiktoken
